@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a5f485fdd2e3347fb8693716952d1cc8, type: 3}
+  m_Name: Backyard
+  m_EditorClassIdentifier: 
+  locationName: Backyard
+  locationDesc: Grass and stuff
+  north: {fileID: 11400000, guid: 977871dbaad2d45788f638771b9314bf, type: 2}
+  south: {fileID: 11400000, guid: a3b83c070d1634b0193d942bb0a829e7, type: 2}
+  east: {fileID: 0}
+  west: {fileID: 0}
